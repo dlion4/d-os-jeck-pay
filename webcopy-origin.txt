@@ -1,0 +1,632 @@
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1C4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyC4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1C4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0C4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiEyp8kv8JHgFVrFJA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw-1.ttf
+Content Type: font/ttf
+
+Uri: https://qrpay.appdevs.net/
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\index-1.htm
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/about
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\about-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/agent-info
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\agent-info-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/agent/login
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\agent\login-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/agent/password/forgot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\agent\password\forgot-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/agent/register
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\agent\register-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/contact
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\contact-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/access.token
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\access.token-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/authentication
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\authentication-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/base-url
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\base-url-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/best-practices
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\best-practices-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/check-status-payment
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\check-status-payment-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/error-handling
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\error-handling-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/examples
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\examples-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/faq
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\faq-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/initiate-payment
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\initiate-payment-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/prerequisites
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\prerequisites-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/response-code
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\response-code-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/developer/support
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\developer\support-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/login
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\login-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/merchant-info
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\merchant-info-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/merchant/login
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\merchant\login-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/merchant/password/forgot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\merchant\password\forgot-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/merchant/register
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\merchant\register-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/page/privacy-policy
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\page\privacy-policy-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/page/refund-policy
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\page\refund-policy-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/page/terms-and-conditions
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\page\terms-and-conditions-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/password/forgot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\password\forgot-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/public/backend/css/select2.min.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\css\select2.min-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/backend/files/blog/1c1be773-1ed0-4c0b-9b50-9aff998827c1.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\files\blog\1c1be773-1ed0-4c0b-9b50-9aff998827c1-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/backend/files/blog/230ebda2-3296-438c-a4ff-20d71edee9da.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\files\blog\230ebda2-3296-438c-a4ff-20d71edee9da-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/backend/files/blog/3db7e580-a9a7-4658-9441-5c003506eb17.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\files\blog\3db7e580-a9a7-4658-9441-5c003506eb17-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/backend/files/blog/69d8f4b9-0df0-4932-9dcc-68338e9da437.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\files\blog\69d8f4b9-0df0-4932-9dcc-68338e9da437-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/agent/favicon-white.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\images\web-settings\image-assets\seeder\agent\favicon-white-1.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/agent/logo-dark.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\images\web-settings\image-assets\seeder\agent\logo-dark.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/favicon-white.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\images\web-settings\image-assets\seeder\favicon-white-1.png
+Content Type: image/png
+
+Uri: qrpay.appdevs.ne/qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/logo-dark.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\images\web-settings\image-assets\seeder\logo-dark.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/merchant/favicon-white.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\images\web-settings\image-assets\seeder\merchant\favicon-white-1.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/merchant/logo-dark.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\images\web-settings\image-assets\seeder\merchant\logo-dark.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/backend/js/bootstrap-notify.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\js\bootstrap-notify.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/backend/js/select2.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\backend\js\select2.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/animate.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\animate-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/bootstrap.min.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/fontawesome-all.min.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\fontawesome-all.min-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/line-awesome.min.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\line-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/nice-select.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\nice-select-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/odometer.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\odometer-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/prettify.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\prettify-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/style.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\style-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/css/swiper.min.css
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-brands-400.eot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-brands-400.eot?
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-brands-400.svg
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-brands-400.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-brands-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-brands-400.woff
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-brands-400-1.woff
+Content Type: font/woff
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-brands-400.woff2
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-regular-400.eot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-regular-400.eot?
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-regular-400.svg
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-regular-400.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-regular-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-regular-400.woff
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-regular-400-1.woff
+Content Type: font/woff
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-regular-400.woff2
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-solid-900.eot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-solid-900.eot?
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-solid-900.svg
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-solid-900.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-solid-900-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-solid-900.woff
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-solid-900-1.woff
+Content Type: font/woff
+
+Uri: https://qrpay.appdevs.net/public/frontend/fonts/la-solid-900.woff2
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\fonts\la-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/app/apple-store.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\app\apple-store-1.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/app/play-store.png
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\app\play-store-1.png
+Content Type: image/png
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/0b62f805-3aef-4465-8911-f2fe0b0836c0.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\0b62f805-3aef-4465-8911-f2fe0b0836c0-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/0d20962d-a6ab-4f1d-8fd8-d1ebd229defb.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\0d20962d-a6ab-4f1d-8fd8-d1ebd229defb-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/12469fc0-480c-438e-ab96-687bbb65048a.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\12469fc0-480c-438e-ab96-687bbb65048a-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/2b51e3ba-5bfc-4783-a167-c9e89b4c1e07.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\2b51e3ba-5bfc-4783-a167-c9e89b4c1e07-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/2ec5235e-94cb-4dc5-8c52-d4c24800a6db.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\2ec5235e-94cb-4dc5-8c52-d4c24800a6db-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/30529cc9-7f5a-43e5-90b5-bed779fe233a.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\30529cc9-7f5a-43e5-90b5-bed779fe233a-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/33222ca0-c261-4cda-9c32-f230f1e2f3c8.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\33222ca0-c261-4cda-9c32-f230f1e2f3c8-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/3edd39be-cb6c-49c5-9e31-6067ce61a942.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\3edd39be-cb6c-49c5-9e31-6067ce61a942-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/67f57675-d167-4d53-acf4-905398ff929b.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\67f57675-d167-4d53-acf4-905398ff929b-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/6d45ffe8-4e41-4228-b7f6-adb41d9378a1.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\6d45ffe8-4e41-4228-b7f6-adb41d9378a1-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/714733ce-59b0-4f57-b778-2c968bcc5dd1.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\714733ce-59b0-4f57-b778-2c968bcc5dd1-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/819cc635-4075-4d1b-b450-552c13004242.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\819cc635-4075-4d1b-b450-552c13004242-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/8f612987-e787-4f00-baab-caa51d549715.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\8f612987-e787-4f00-baab-caa51d549715-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/94751058-f840-4f92-9342-97220c026a64.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\94751058-f840-4f92-9342-97220c026a64-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/a0c9ab48-f3ba-4dfe-8a7d-b7fcb05f6be0.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\a0c9ab48-f3ba-4dfe-8a7d-b7fcb05f6be0-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/acc3c5d9-3c77-4795-a01d-489250194a36.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\acc3c5d9-3c77-4795-a01d-489250194a36-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/b4924595-c699-482f-ae7a-e32d738695f6.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\b4924595-c699-482f-ae7a-e32d738695f6-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/c64537ea-d4bd-4cf4-8681-8039c92e0a12.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\c64537ea-d4bd-4cf4-8681-8039c92e0a12-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/cc34fc9d-8776-48a8-9bc0-4a7cbec0d6fa.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\cc34fc9d-8776-48a8-9bc0-4a7cbec0d6fa-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/d113d14f-fb22-4e96-90c9-29f725c0d606.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\d113d14f-fb22-4e96-90c9-29f725c0d606-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/eb5c9827-047d-425d-bbbf-c786c110aae9.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\eb5c9827-047d-425d-bbbf-c786c110aae9-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/images/site-section/f21867eb-e698-4ad0-a26d-a38e9c59f532.webp
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\images\site-section\f21867eb-e698-4ad0-a26d-a38e9c59f532-1.webp
+Content Type: image/webp
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/bootstrap.bundle.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\bootstrap.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/jquery-3.5.1.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\jquery-3.5.1.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/jquery.nice-select.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\jquery.nice-select-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/main.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/odometer.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\odometer.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/prettify.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\prettify-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/smoothscroll.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\smoothscroll.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/swiper.min.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\swiper.min-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/js/viewport.jquery.js
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\js\viewport.jquery-1.js
+Content Type: application/javascript
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-brands-400.eot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-brands-400.eot?
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-brands-400.svg
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-brands-400.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-brands-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-brands-400.woff
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-brands-400-1.woff
+Content Type: font/woff
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-brands-400.woff2
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-regular-400.eot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-regular-400.eot?
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-regular-400.svg
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-regular-400.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-regular-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-regular-400.woff
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-regular-400-1.woff
+Content Type: font/woff
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-regular-400.woff2
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-solid-900.eot
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-solid-900.eot?
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-solid-900.svg
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-solid-900.ttf
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-solid-900-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-solid-900.woff
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-solid-900-1.woff
+Content Type: font/woff
+
+Uri: https://qrpay.appdevs.net/public/frontend/webfonts/fa-solid-900.woff2
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\public\frontend\webfonts\fa-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: https://qrpay.appdevs.net/register
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\register-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/service
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\service-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/by/category/3/global-account
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\by\category\3\global-account-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/by/category/4/crypto-support
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\by\category\4\crypto-support-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/by/category/6/money-transaction
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\by\category\6\money-transaction-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/details/1/mastering-time-management-key-strategies-for-productivity
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\details\1\mastering-time-management-key-strategies-for-productivity-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/details/2/mastering-time-management-key-strategies-for-productivity
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\details\2\mastering-time-management-key-strategies-for-productivity-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/details/3/the-art-of-mindful-living-embrace-the-present-moment
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\details\3\the-art-of-mindful-living-embrace-the-present-moment-1.html
+Content Type: text/html
+
+Uri: https://qrpay.appdevs.net/web/journal/details/4/unlocking-your-creative-potential-ignite-your-imagination
+File Name: C:\Users\user\Documents\MGR\qrpay\qrpay.appdevs.net\web\journal\details\4\unlocking-your-creative-potential-ignite-your-imagination-1.html
+Content Type: text/html
+

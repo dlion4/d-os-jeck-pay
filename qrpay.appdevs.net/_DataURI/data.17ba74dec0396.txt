@@ -1,0 +1,1 @@
+chrome-extension://15b4cd22-a0fc-41d8-8da8-b6499452f14c/assets/src/contentscripts/ContentScript-3df6bc51.js

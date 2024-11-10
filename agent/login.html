@@ -1,0 +1,516 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="CveIOdj90l5gJZyPWBlTSwVPEm5JfbLPWcZjBFks">
+    <title>QRPAY - Agent Login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="../css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- favicon -->
+<link rel="shortcut icon" href="../public/backend/images/web-settings/image-assets/seeder/agent/favicon-white.png" type="image/x-icon">
+<!-- fontawesome css link -->
+   <!-- fontawesome css link -->
+   <link rel="stylesheet" href="../public/frontend/css/fontawesome-all.min.css">
+   <!-- line-awesome-icon css -->
+   <link rel="stylesheet" href="../public/frontend/css/line-awesome.min.css">
+   <!-- bootstrap css link -->
+   <link rel="stylesheet" href="../public/frontend/css/bootstrap.min.css">
+   <!-- swipper css link -->
+   <link rel="stylesheet" href="../public/frontend/css/swiper.min.css">
+   <!-- animate css link -->
+   <link rel="stylesheet" href="../public/frontend/css/animate.css">
+
+   <link rel="stylesheet" href="../public/backend/css/select2.min.css">
+   <!-- nice select css -->
+    <link rel="stylesheet" href="../public/frontend/css/nice-select.css">
+      <!-- odometer css link -->
+      <link rel="stylesheet" href="../public/frontend/css/odometer.css">
+      <!-- main style css link -->
+   <link rel="stylesheet" href="../public/frontend/css/style.css">
+
+
+
+<style>
+   :root {
+       --primary-color: #007A5A;
+   }
+
+</style>
+
+        <style>
+        .input-group-text span {
+            max-width: 20ch !important;
+        }
+    </style>
+</head>
+<body class="ltr">
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Start acount
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<section class="account">
+    <div class="account-area">
+        <div class="account-wrapper">
+            <div class="account-logo text-center">
+                <a href="../index.htm" class="site-logo">
+                    <img src="../public/backend/images/web-settings/image-assets/seeder/agent/logo-dark.png" data-white_img="https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/agent/logo-dark.png" data-dark_img="https://qrpay.appdevs.net/public/backend/images/web-settings/image-assets/seeder/agent/logo-white.png" alt="site-logo">
+                </a>
+            </div>
+            <h5 class="title">Log in and Stay Connected</h5>
+            <p>Our secure login process ensures the confidentiality of your information. Log in today and stay connected to your finances, anytime and anywhere.</p>
+            <form class="account-form" action="https://qrpay.appdevs.net/agent/login" method="POST">
+                <input type="hidden" name="_token" value="CveIOdj90l5gJZyPWBlTSwVPEm5JfbLPWcZjBFks">                <div class="row ml-b-20">
+                    <div class="col-xl-12 col-lg-12  form-group">
+                        <label>Login Type <span class="text--base">*</span></label>
+                        <select class="form--control nice-select" name="login_type">
+                            <option value="" disabled="" selected="">Select One</option>
+                            <option value="Phone">Phone</option>
+                            <option value="Email">Email</option>
+                        </select>
+                    </div>
+                    <div class="credentials"> </div>
+                    <div class="password-field"> </div>
+                    <div class="col-lg-12 form-group">
+                        <div class="forgot-item">
+                            <label><a href="password/forgot.html">Forgot Password?</a></label>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 form-group text-center">
+                        <button type="submit" class="btn--base w-100 btn-loading">Login Now <i class="las la-arrow-right"></i></button>
+                    </div>
+                                        <div class="or-area">
+                        <span class="or-line"></span>
+                        <span class="or-title">Or</span>
+                        <span class="or-line"></span>
+                    </div>
+                    <div class="col-lg-12 text-center">
+                        <div class="account-item">
+                            <label>Don&#039;t Have An Account? <a href="register.html" class="account-control-btn">Register Now</a></label>
+                        </div>
+                    </div>
+                                    </div>
+            </form>
+        </div>
+    </div>
+</section>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    End acount
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<!-- jquery -->
+<script src="../public/frontend/js/jquery-3.5.1.min.js"></script>
+<!-- bootstrap js -->
+<script src="../public/frontend/js/bootstrap.bundle.min.js"></script>
+<!-- swipper js -->
+<script src="../public/frontend/js/swiper.min.js"></script>
+<!-- wow js file -->
+
+<!-- smooth scroll js -->
+<script src="../public/frontend/js/smoothscroll.min.js"></script>
+<!-- main -->
+<!-- nice select js -->
+<script src="../public/frontend/js/jquery.nice-select.js"></script>
+<script src="../public/backend/js/select2.min.js"></script>
+
+<script src="../public/frontend/js/odometer.min.js"></script>
+<!-- viewport js -->
+<script src="../public/frontend/js/viewport.jquery.js"></script>
+
+<script src="../public/frontend/js/main.js"></script>
+
+
+<script>
+     $(".langSel").on("change", function() {
+        window.location.href = "https://qrpay.appdevs.net/change/"+$(this).val();
+    });
+</script>
+
+<script>
+    function getAllCountries(hitUrl,targetElement = $(".country-select"),errorElement = $(".country-select").siblings(".select2")) {
+    if(targetElement.length == 0) {
+      return false;
+    }
+    var CSRF = $("meta[name=csrf-token]").attr("content");
+    var data = {
+      _token      : CSRF,
+    };
+    $.post(hitUrl,data,function() {
+      // success
+      $(errorElement).removeClass("is-invalid");
+      $(targetElement).siblings(".invalid-feedback").remove();
+    }).done(function(response){
+      // Place States to States Field
+      var options = "<option selected disabled>Select Country</option>";
+      var selected_old_data = "";
+      if($(targetElement).attr("data-old") != null) {
+          selected_old_data = $(targetElement).attr("data-old");
+      }
+      $.each(response,function(index,item) {
+          options += `<option value="${item.name}" data-id="${item.id}" data-iso2="${item.iso2}" data-mobile-code="${item.mobile_code}" ${selected_old_data == item.name ? "selected" : ""}>${item.name}</option>`;
+      });
+
+      allCountries = response;
+
+      $(targetElement).html(options);
+    }).fail(function(response) {
+      var faildMessage = "Something went worng! Please try again.";
+      var faildElement = `<span class="invalid-feedback" role="alert">
+                              <strong>${faildMessage}</strong>
+                          </span>`;
+      $(errorElement).addClass("is-invalid");
+      if($(targetElement).siblings(".invalid-feedback").length != 0) {
+          $(targetElement).siblings(".invalid-feedback").text(faildMessage);
+      }else {
+        errorElement.after(faildElement);
+      }
+    });
+}
+</script>
+
+<!-- notify js -->
+<script src='../public/backend/js/bootstrap-notify.min.js'></script>
+
+<script>
+    // Show Laravel Error Messages----------------------------------------------
+    $(function () {
+        $(document).ready(function(){
+                    });
+    });
+    //--------------------------------------------------------------------------
+
+    // Function for throw error messages from javascript------------------------
+    function throwMessage(type,errors = []) {
+        if(type == 'error') {
+            $.each(errors,function(index,item) {
+                $.notify(
+                    {
+                        title: "",
+                        message: item,
+                        icon: 'las la-exclamation-triangle',
+                    },
+                    {
+                        type: "danger",
+                        allow_dismiss: true,
+                        delay: 5000,
+                        placement: {
+                        from: "top",
+                        align: "right"
+                        },
+                    }
+                );
+            });
+        }else if(type == 'success') {
+            $.each(errors,function(index,item) {
+                $.notify(
+                    {
+                        title: "",
+                        message: item,
+                        icon: 'las la-check-circle',
+                    },
+                    {
+                        type: "success",
+                        allow_dismiss: true,
+                        delay: 5000,
+                        placement: {
+                        from: "top",
+                        align: "right"
+                        },
+                    }
+                );
+            });
+        }else if(type == 'warning') {
+            $.each(errors,function(index,item) {
+                $.notify(
+                    {
+                        title: "",
+                        message: item,
+                        icon: 'las la-check-circle',
+                    },
+                    {
+                        type: "warning",
+                        allow_dismiss: true,
+                        delay: 5000,
+                        placement: {
+                        from: "top",
+                        align: "right"
+                        },
+                    }
+                );
+            });
+        }
+
+    }
+    //--------------------------------------------------------------------------
+    function notification(type,message){
+        $.notify(
+            {
+                title: "",
+                message: message,
+                icon: 'las la-exclamation-triangle',
+            },
+            {
+                type: type,
+                allow_dismiss: true,
+                delay: 5000,
+                placement: {
+                from: "top",
+                align: "right"
+                },
+            }
+        );
+    }
+    // Function for set modal session value --------------------
+    var validationSession = null;
+    function getSessionValue(sesesionValue = null) {
+        validationSession = sessionValue;
+    }
+
+    
+    // Function for open modal/popup when have backend session
+    function openModalWhenError(sessionValue,modalSelector) {
+        if(validationSession != sessionValue) {
+            return false;
+        }
+        openModalBySelector(modalSelector);
+    }
+    //----------------------------------------------------------
+
+
+    function countrySelect(element,errorElement) {
+        $(document).on("change",element,function(){
+            var targetElement = $(this);
+            var countryId = $(element+" :selected").attr("data-id");
+            if(countryId != "" || countryId != null) {
+                var CSRF = $("meta[name=csrf-token]").attr("content");
+                var data = {
+                    _token      : CSRF,
+                    country_id  : countryId,
+                };
+                $.post("https://qrpay.appdevs.net/global/get-states",data,function() {
+                    // success
+                    $(errorElement).removeClass("is-invalid");
+                    $(targetElement).siblings(".invalid-feedback").remove();
+                }).done(function(response){
+                    // Place States to States Field
+                    var options = "<option selected disabled>Select State</option>";
+                    $.each(response,function(index,item) {
+                        options += `<option value="${item.name}" data-id="${item.id}">${item.name}</option>`;
+                    });
+                    $(".state-select").html(options);
+                }).fail(function(response) {
+                    if(response.status == 422) { // Validation Error
+                        var faildMessage = "Please select a valid Country.";
+                        var faildElement = `<span class="invalid-feedback" role="alert">
+                                                <strong>${faildMessage}</strong>
+                                            </span>`;
+                        $(errorElement).addClass("is-invalid");
+                        if($(targetElement).siblings(".invalid-feedback").length != 0) {
+                            $(targetElement).siblings(".invalid-feedback").text(faildMessage);
+                        }else {
+                            errorElement.after(faildElement);
+                        }
+                    }else {
+                        var faildMessage = "Something went worng! Please try again.";
+                        var faildElement = `<span class="invalid-feedback" role="alert">
+                                                <strong>${faildMessage}</strong>
+                                            </span>`;
+                        $(errorElement).addClass("is-invalid");
+                        if($(targetElement).siblings(".invalid-feedback").length != 0) {
+                            $(targetElement).siblings(".invalid-feedback").text(faildMessage);
+                        }else {
+                            errorElement.after(faildElement);
+                        }
+                    }
+
+                });
+            }else {
+                // Push Error
+            }
+        });
+    }
+
+    // State Select Get Cities
+    function stateSelect(element,errorElement) {
+        $(document).on("change",element,function(){
+            var targetElement = $(this);
+            var stateId = $(element+" :selected").attr("data-id");
+            if(stateId != "" || stateId != null) {
+                var CSRF = $("meta[name=csrf-token]").attr("content");
+                var data = {
+                    _token      : CSRF,
+                    state_id  : stateId,
+                };
+                $.post("https://qrpay.appdevs.net/global/get-cities",data,function() {
+                    // success
+                    $(errorElement).removeClass("is-invalid");
+                    $(targetElement).siblings(".invalid-feedback").remove();
+                }).done(function(response){
+                    // console.log(response);
+                    // Place States to States Field
+                    var options = "<option selected disabled>Select City</option>";
+                    $.each(response,function(index,item) {
+                        options += `<option value="${item.name}" data-id="${item.id}">${item.name}</option>`;
+                    });
+
+                    $(".city-select").html(options);
+                }).fail(function(response) {
+                    if(response.status == 422) { // Validation Error
+                        var faildMessage = "Please select a valid state.";
+                        var faildElement = `<span class="invalid-feedback" role="alert">
+                                                <strong>${faildMessage}</strong>
+                                            </span>`;
+                        $(errorElement).addClass("is-invalid");
+                        if($(targetElement).siblings(".invalid-feedback").length != 0) {
+                            $(targetElement).siblings(".invalid-feedback").text(faildMessage);
+                        }else {
+                            errorElement.after(faildElement);
+                        }
+                    }else {
+                        var faildMessage = "Something went worng! Please try again.";
+                        var faildElement = `<span class="invalid-feedback" role="alert">
+                                                <strong>${faildMessage}</strong>
+                                            </span>`;
+                        $(errorElement).addClass("is-invalid");
+                        if($(targetElement).siblings(".invalid-feedback").length != 0) {
+                            $(targetElement).siblings(".invalid-feedback").text(faildMessage);
+                        }else {
+                            errorElement.after(faildElement);
+                        }
+                    }
+                });
+            }else {
+                // Push Error
+            }
+        });
+    }
+
+</script>
+<script type="text/javascript">
+            var property    = "6263cb787b967b11798c1faf";
+            var widget      = "1g1at5k98";
+
+            if(property.length > 0 && widget.length > 0) {
+                var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+                (function(){
+                var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+                s1.async=true;
+                s1.src=`https://embed.tawk.to/${property}/${widget}`;
+                s1.charset='UTF-8';
+                s1.setAttribute('crossorigin','*');
+                s0.parentNode.insertBefore(s1,s0);
+                })();
+            }
+        </script>
+    
+<script>
+    $(document).on("click","#show_hide_password a",function(event){
+        event.preventDefault();
+        if($('#show_hide_password input').attr("type") == "text"){
+            $('#show_hide_password input').attr('type', 'password');
+            $('#show_hide_password i').addClass( "fa-eye-slash" );
+            $('#show_hide_password i').removeClass( "fa-eye" );
+        }else if($('#show_hide_password input').attr("type") == "password"){
+            $('#show_hide_password input').attr('type', 'text');
+            $('#show_hide_password i').removeClass( "fa-eye-slash" );
+            $('#show_hide_password i').addClass( "fa-eye" );
+        }
+    });
+</script>
+<script>
+    $(document).ready(function(){
+        setLoginType();
+    });
+    $("select[name=login_type]").change(function(){
+        setLoginType();
+    });
+     function acceptVar() {
+        var selectedVal = $("select[name=login_type] :selected");
+        return {
+            selectedVal:selectedVal,
+
+        };
+    }
+    function setLoginType(){
+        var type = acceptVar().selectedVal.val();
+        if(type == "Email"){
+            $('.credentials').html('');
+            $('.password-field').html('');
+            $('.credentials').html(`
+                    <div class="col-xl-12 col-lg-12 form-group">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text copytext">Email</span>
+                            </div>
+                              <input type="email" name="credentials" class="form--control" placeholder="Enter Email Address" value="">
+                        </div>
+                    </div>
+                    `);
+            $('.password-field').html(`
+                        <div class="col-lg-12 form-group" id="show_hide_password">
+                            <input type="password" required class="form-control form--control" name="password" placeholder="Enter Password">
+                            <a href="javascript:void(0)" class="show-pass"><i class="fa fa-eye-slash" aria-hidden="true"></i></a>
+                        </div>
+                    `);
+        }else if(type == "Phone"){
+            $('.credentials').html('');
+            $('.password-field').html('');
+            var countries = [{"id":1,"name":"Afghanistan","mobile_code":"93","currency_name":"Afghan afghani","currency_code":"AFN","currency_symbol":"\u060b","iso2":"AF"},{"id":2,"name":"Aland Islands","mobile_code":"+358-18","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"AX"},{"id":3,"name":"Albania","mobile_code":"355","currency_name":"Albanian lek","currency_code":"ALL","currency_symbol":"Lek","iso2":"AL"},{"id":4,"name":"Algeria","mobile_code":"213","currency_name":"Algerian dinar","currency_code":"DZD","currency_symbol":"\u062f\u062c","iso2":"DZ"},{"id":233,"name":"United States","mobile_code":"1","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"US"},{"id":5,"name":"American Samoa","mobile_code":"+1-684","currency_name":"US Dollar","currency_code":"USD","currency_symbol":"$","iso2":"AS"},{"id":6,"name":"Andorra","mobile_code":"376","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"AD"},{"id":7,"name":"Angola","mobile_code":"244","currency_name":"Angolan kwanza","currency_code":"AOA","currency_symbol":"Kz","iso2":"AO"},{"id":8,"name":"Anguilla","mobile_code":"+1-264","currency_name":"East Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"AI"},{"id":9,"name":"Antarctica","mobile_code":"672","currency_name":"Antarctican dollar","currency_code":"AAD","currency_symbol":"$","iso2":"AQ"},{"id":10,"name":"Antigua And Barbuda","mobile_code":"+1-268","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"AG"},{"id":11,"name":"Argentina","mobile_code":"54","currency_name":"Argentine peso","currency_code":"ARS","currency_symbol":"$","iso2":"AR"},{"id":12,"name":"Armenia","mobile_code":"374","currency_name":"Armenian dram","currency_code":"AMD","currency_symbol":"\u058f","iso2":"AM"},{"id":13,"name":"Aruba","mobile_code":"297","currency_name":"Aruban florin","currency_code":"AWG","currency_symbol":"\u0192","iso2":"AW"},{"id":14,"name":"Australia","mobile_code":"61","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"AU"},{"id":15,"name":"Austria","mobile_code":"43","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"AT"},{"id":16,"name":"Azerbaijan","mobile_code":"994","currency_name":"Azerbaijani manat","currency_code":"AZN","currency_symbol":"m","iso2":"AZ"},{"id":18,"name":"Bahrain","mobile_code":"973","currency_name":"Bahraini dinar","currency_code":"BHD","currency_symbol":".\u062f.\u0628","iso2":"BH"},{"id":19,"name":"Bangladesh","mobile_code":"880","currency_name":"Bangladeshi taka","currency_code":"BDT","currency_symbol":"\u09f3","iso2":"BD"},{"id":20,"name":"Barbados","mobile_code":"+1-246","currency_name":"Barbadian dollar","currency_code":"BBD","currency_symbol":"Bds$","iso2":"BB"},{"id":21,"name":"Belarus","mobile_code":"375","currency_name":"Belarusian ruble","currency_code":"BYN","currency_symbol":"Br","iso2":"BY"},{"id":22,"name":"Belgium","mobile_code":"32","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"BE"},{"id":23,"name":"Belize","mobile_code":"501","currency_name":"Belize dollar","currency_code":"BZD","currency_symbol":"$","iso2":"BZ"},{"id":24,"name":"Benin","mobile_code":"229","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"BJ"},{"id":25,"name":"Bermuda","mobile_code":"+1-441","currency_name":"Bermudian dollar","currency_code":"BMD","currency_symbol":"$","iso2":"BM"},{"id":26,"name":"Bhutan","mobile_code":"975","currency_name":"Bhutanese ngultrum","currency_code":"BTN","currency_symbol":"Nu.","iso2":"BT"},{"id":27,"name":"Bolivia","mobile_code":"591","currency_name":"Bolivian boliviano","currency_code":"BOB","currency_symbol":"Bs.","iso2":"BO"},{"id":155,"name":"Bonaire, Sint Eustatius and Saba","mobile_code":"599","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"BQ"},{"id":28,"name":"Bosnia and Herzegovina","mobile_code":"387","currency_name":"Bosnia and Herzegovina convertible mark","currency_code":"BAM","currency_symbol":"KM","iso2":"BA"},{"id":29,"name":"Botswana","mobile_code":"267","currency_name":"Botswana pula","currency_code":"BWP","currency_symbol":"P","iso2":"BW"},{"id":30,"name":"Bouvet Island","mobile_code":"0055","currency_name":"Norwegian Krone","currency_code":"NOK","currency_symbol":"kr","iso2":"BV"},{"id":31,"name":"Brazil","mobile_code":"55","currency_name":"Brazilian real","currency_code":"BRL","currency_symbol":"R$","iso2":"BR"},{"id":32,"name":"British Indian Ocean Territory","mobile_code":"246","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"IO"},{"id":33,"name":"Brunei","mobile_code":"673","currency_name":"Brunei dollar","currency_code":"BND","currency_symbol":"B$","iso2":"BN"},{"id":34,"name":"Bulgaria","mobile_code":"359","currency_name":"Bulgarian lev","currency_code":"BGN","currency_symbol":"\u041b\u0432.","iso2":"BG"},{"id":35,"name":"Burkina Faso","mobile_code":"226","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"BF"},{"id":36,"name":"Burundi","mobile_code":"257","currency_name":"Burundian franc","currency_code":"BIF","currency_symbol":"FBu","iso2":"BI"},{"id":37,"name":"Cambodia","mobile_code":"855","currency_name":"Cambodian riel","currency_code":"KHR","currency_symbol":"KHR","iso2":"KH"},{"id":38,"name":"Cameroon","mobile_code":"237","currency_name":"Central African CFA franc","currency_code":"XAF","currency_symbol":"FCFA","iso2":"CM"},{"id":39,"name":"Canada","mobile_code":"1","currency_name":"Canadian dollar","currency_code":"CAD","currency_symbol":"$","iso2":"CA"},{"id":40,"name":"Cape Verde","mobile_code":"238","currency_name":"Cape Verdean escudo","currency_code":"CVE","currency_symbol":"$","iso2":"CV"},{"id":41,"name":"Cayman Islands","mobile_code":"+1-345","currency_name":"Cayman Islands dollar","currency_code":"KYD","currency_symbol":"$","iso2":"KY"},{"id":42,"name":"Central African Republic","mobile_code":"236","currency_name":"Central African CFA franc","currency_code":"XAF","currency_symbol":"FCFA","iso2":"CF"},{"id":43,"name":"Chad","mobile_code":"235","currency_name":"Central African CFA franc","currency_code":"XAF","currency_symbol":"FCFA","iso2":"TD"},{"id":44,"name":"Chile","mobile_code":"56","currency_name":"Chilean peso","currency_code":"CLP","currency_symbol":"$","iso2":"CL"},{"id":45,"name":"China","mobile_code":"86","currency_name":"Chinese yuan","currency_code":"CNY","currency_symbol":"\u00a5","iso2":"CN"},{"id":46,"name":"Christmas Island","mobile_code":"61","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"CX"},{"id":47,"name":"Cocos (Keeling) Islands","mobile_code":"61","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"CC"},{"id":48,"name":"Colombia","mobile_code":"57","currency_name":"Colombian peso","currency_code":"COP","currency_symbol":"$","iso2":"CO"},{"id":49,"name":"Comoros","mobile_code":"269","currency_name":"Comorian franc","currency_code":"KMF","currency_symbol":"CF","iso2":"KM"},{"id":50,"name":"Congo","mobile_code":"242","currency_name":"Central African CFA franc","currency_code":"XAF","currency_symbol":"FC","iso2":"CG"},{"id":52,"name":"Cook Islands","mobile_code":"682","currency_name":"Cook Islands dollar","currency_code":"NZD","currency_symbol":"$","iso2":"CK"},{"id":53,"name":"Costa Rica","mobile_code":"506","currency_name":"Costa Rican col\u00f3n","currency_code":"CRC","currency_symbol":"\u20a1","iso2":"CR"},{"id":54,"name":"Cote D'Ivoire (Ivory Coast)","mobile_code":"225","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"CI"},{"id":55,"name":"Croatia","mobile_code":"385","currency_name":"Croatian kuna","currency_code":"HRK","currency_symbol":"kn","iso2":"HR"},{"id":56,"name":"Cuba","mobile_code":"53","currency_name":"Cuban peso","currency_code":"CUP","currency_symbol":"$","iso2":"CU"},{"id":249,"name":"Cura\u00e7ao","mobile_code":"599","currency_name":"Netherlands Antillean guilder","currency_code":"ANG","currency_symbol":"\u0192","iso2":"CW"},{"id":57,"name":"Cyprus","mobile_code":"357","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"CY"},{"id":58,"name":"Czech Republic","mobile_code":"420","currency_name":"Czech koruna","currency_code":"CZK","currency_symbol":"K\u010d","iso2":"CZ"},{"id":51,"name":"Democratic Republic of the Congo","mobile_code":"243","currency_name":"Congolese Franc","currency_code":"CDF","currency_symbol":"FC","iso2":"CD"},{"id":59,"name":"Denmark","mobile_code":"45","currency_name":"Danish krone","currency_code":"DKK","currency_symbol":"Kr.","iso2":"DK"},{"id":60,"name":"Djibouti","mobile_code":"253","currency_name":"Djiboutian franc","currency_code":"DJF","currency_symbol":"Fdj","iso2":"DJ"},{"id":61,"name":"Dominica","mobile_code":"+1-767","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"DM"},{"id":62,"name":"Dominican Republic","mobile_code":"+1-809 and 1-829","currency_name":"Dominican peso","currency_code":"DOP","currency_symbol":"$","iso2":"DO"},{"id":63,"name":"East Timor","mobile_code":"670","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"TL"},{"id":64,"name":"Ecuador","mobile_code":"593","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"EC"},{"id":65,"name":"Egypt","mobile_code":"20","currency_name":"Egyptian pound","currency_code":"EGP","currency_symbol":"\u062c.\u0645","iso2":"EG"},{"id":66,"name":"El Salvador","mobile_code":"503","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"SV"},{"id":67,"name":"Equatorial Guinea","mobile_code":"240","currency_name":"Central African CFA franc","currency_code":"XAF","currency_symbol":"FCFA","iso2":"GQ"},{"id":68,"name":"Eritrea","mobile_code":"291","currency_name":"Eritrean nakfa","currency_code":"ERN","currency_symbol":"Nfk","iso2":"ER"},{"id":69,"name":"Estonia","mobile_code":"372","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"EE"},{"id":70,"name":"Ethiopia","mobile_code":"251","currency_name":"Ethiopian birr","currency_code":"ETB","currency_symbol":"Nkf","iso2":"ET"},{"id":71,"name":"Falkland Islands","mobile_code":"500","currency_name":"Falkland Islands pound","currency_code":"FKP","currency_symbol":"\u00a3","iso2":"FK"},{"id":72,"name":"Faroe Islands","mobile_code":"298","currency_name":"Danish krone","currency_code":"DKK","currency_symbol":"Kr.","iso2":"FO"},{"id":73,"name":"Fiji Islands","mobile_code":"679","currency_name":"Fijian dollar","currency_code":"FJD","currency_symbol":"FJ$","iso2":"FJ"},{"id":74,"name":"Finland","mobile_code":"358","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"FI"},{"id":75,"name":"France","mobile_code":"33","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"FR"},{"id":76,"name":"French Guiana","mobile_code":"594","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"GF"},{"id":77,"name":"French Polynesia","mobile_code":"689","currency_name":"CFP franc","currency_code":"XPF","currency_symbol":"\u20a3","iso2":"PF"},{"id":78,"name":"French Southern Territories","mobile_code":"262","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"TF"},{"id":79,"name":"Gabon","mobile_code":"241","currency_name":"Central African CFA franc","currency_code":"XAF","currency_symbol":"FCFA","iso2":"GA"},{"id":80,"name":"Gambia The","mobile_code":"220","currency_name":"Gambian dalasi","currency_code":"GMD","currency_symbol":"D","iso2":"GM"},{"id":81,"name":"Georgia","mobile_code":"995","currency_name":"Georgian lari","currency_code":"GEL","currency_symbol":"\u10da","iso2":"GE"},{"id":82,"name":"Germany","mobile_code":"49","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"DE"},{"id":83,"name":"Ghana","mobile_code":"233","currency_name":"Ghanaian cedi","currency_code":"GHS","currency_symbol":"GH\u20b5","iso2":"GH"},{"id":84,"name":"Gibraltar","mobile_code":"350","currency_name":"Gibraltar pound","currency_code":"GIP","currency_symbol":"\u00a3","iso2":"GI"},{"id":85,"name":"Greece","mobile_code":"30","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"GR"},{"id":86,"name":"Greenland","mobile_code":"299","currency_name":"Danish krone","currency_code":"DKK","currency_symbol":"Kr.","iso2":"GL"},{"id":87,"name":"Grenada","mobile_code":"+1-473","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"GD"},{"id":88,"name":"Guadeloupe","mobile_code":"590","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"GP"},{"id":89,"name":"Guam","mobile_code":"+1-671","currency_name":"US Dollar","currency_code":"USD","currency_symbol":"$","iso2":"GU"},{"id":90,"name":"Guatemala","mobile_code":"502","currency_name":"Guatemalan quetzal","currency_code":"GTQ","currency_symbol":"Q","iso2":"GT"},{"id":91,"name":"Guernsey and Alderney","mobile_code":"+44-1481","currency_name":"British pound","currency_code":"GBP","currency_symbol":"\u00a3","iso2":"GG"},{"id":92,"name":"Guinea","mobile_code":"224","currency_name":"Guinean franc","currency_code":"GNF","currency_symbol":"FG","iso2":"GN"},{"id":93,"name":"Guinea-Bissau","mobile_code":"245","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"GW"},{"id":94,"name":"Guyana","mobile_code":"592","currency_name":"Guyanese dollar","currency_code":"GYD","currency_symbol":"$","iso2":"GY"},{"id":95,"name":"Haiti","mobile_code":"509","currency_name":"Haitian gourde","currency_code":"HTG","currency_symbol":"G","iso2":"HT"},{"id":96,"name":"Heard Island and McDonald Islands","mobile_code":"672","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"HM"},{"id":97,"name":"Honduras","mobile_code":"504","currency_name":"Honduran lempira","currency_code":"HNL","currency_symbol":"L","iso2":"HN"},{"id":98,"name":"Hong Kong S.A.R.","mobile_code":"852","currency_name":"Hong Kong dollar","currency_code":"HKD","currency_symbol":"$","iso2":"HK"},{"id":99,"name":"Hungary","mobile_code":"36","currency_name":"Hungarian forint","currency_code":"HUF","currency_symbol":"Ft","iso2":"HU"},{"id":100,"name":"Iceland","mobile_code":"354","currency_name":"Icelandic kr\u00f3na","currency_code":"ISK","currency_symbol":"kr","iso2":"IS"},{"id":101,"name":"India","mobile_code":"91","currency_name":"Indian rupee","currency_code":"INR","currency_symbol":"\u20b9","iso2":"IN"},{"id":102,"name":"Indonesia","mobile_code":"62","currency_name":"Indonesian rupiah","currency_code":"IDR","currency_symbol":"Rp","iso2":"ID"},{"id":103,"name":"Iran","mobile_code":"98","currency_name":"Iranian rial","currency_code":"IRR","currency_symbol":"\ufdfc","iso2":"IR"},{"id":104,"name":"Iraq","mobile_code":"964","currency_name":"Iraqi dinar","currency_code":"IQD","currency_symbol":"\u062f.\u0639","iso2":"IQ"},{"id":105,"name":"Ireland","mobile_code":"353","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"IE"},{"id":106,"name":"Israel","mobile_code":"972","currency_name":"Israeli new shekel","currency_code":"ILS","currency_symbol":"\u20aa","iso2":"IL"},{"id":107,"name":"Italy","mobile_code":"39","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"IT"},{"id":108,"name":"Jamaica","mobile_code":"+1-876","currency_name":"Jamaican dollar","currency_code":"JMD","currency_symbol":"J$","iso2":"JM"},{"id":109,"name":"Japan","mobile_code":"81","currency_name":"Japanese yen","currency_code":"JPY","currency_symbol":"\u00a5","iso2":"JP"},{"id":110,"name":"Jersey","mobile_code":"+44-1534","currency_name":"British pound","currency_code":"GBP","currency_symbol":"\u00a3","iso2":"JE"},{"id":111,"name":"Jordan","mobile_code":"962","currency_name":"Jordanian dinar","currency_code":"JOD","currency_symbol":"\u0627.\u062f","iso2":"JO"},{"id":112,"name":"Kazakhstan","mobile_code":"7","currency_name":"Kazakhstani tenge","currency_code":"KZT","currency_symbol":"\u043b\u0432","iso2":"KZ"},{"id":113,"name":"Kenya","mobile_code":"254","currency_name":"Kenyan shilling","currency_code":"KES","currency_symbol":"KSh","iso2":"KE"},{"id":114,"name":"Kiribati","mobile_code":"686","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"KI"},{"id":248,"name":"Kosovo","mobile_code":"383","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"XK"},{"id":117,"name":"Kuwait","mobile_code":"965","currency_name":"Kuwaiti dinar","currency_code":"KWD","currency_symbol":"\u0643.\u062f","iso2":"KW"},{"id":118,"name":"Kyrgyzstan","mobile_code":"996","currency_name":"Kyrgyzstani som","currency_code":"KGS","currency_symbol":"\u043b\u0432","iso2":"KG"},{"id":119,"name":"Laos","mobile_code":"856","currency_name":"Lao kip","currency_code":"LAK","currency_symbol":"\u20ad","iso2":"LA"},{"id":120,"name":"Latvia","mobile_code":"371","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"LV"},{"id":121,"name":"Lebanon","mobile_code":"961","currency_name":"Lebanese pound","currency_code":"LBP","currency_symbol":"\u00a3","iso2":"LB"},{"id":122,"name":"Lesotho","mobile_code":"266","currency_name":"Lesotho loti","currency_code":"LSL","currency_symbol":"L","iso2":"LS"},{"id":123,"name":"Liberia","mobile_code":"231","currency_name":"Liberian dollar","currency_code":"LRD","currency_symbol":"$","iso2":"LR"},{"id":124,"name":"Libya","mobile_code":"218","currency_name":"Libyan dinar","currency_code":"LYD","currency_symbol":"\u062f.\u0644","iso2":"LY"},{"id":125,"name":"Liechtenstein","mobile_code":"423","currency_name":"Swiss franc","currency_code":"CHF","currency_symbol":"CHf","iso2":"LI"},{"id":126,"name":"Lithuania","mobile_code":"370","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"LT"},{"id":127,"name":"Luxembourg","mobile_code":"352","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"LU"},{"id":128,"name":"Macau S.A.R.","mobile_code":"853","currency_name":"Macanese pataca","currency_code":"MOP","currency_symbol":"$","iso2":"MO"},{"id":129,"name":"Macedonia","mobile_code":"389","currency_name":"Denar","currency_code":"MKD","currency_symbol":"\u0434\u0435\u043d","iso2":"MK"},{"id":130,"name":"Madagascar","mobile_code":"261","currency_name":"Malagasy ariary","currency_code":"MGA","currency_symbol":"Ar","iso2":"MG"},{"id":131,"name":"Malawi","mobile_code":"265","currency_name":"Malawian kwacha","currency_code":"MWK","currency_symbol":"MK","iso2":"MW"},{"id":132,"name":"Malaysia","mobile_code":"60","currency_name":"Malaysian ringgit","currency_code":"MYR","currency_symbol":"RM","iso2":"MY"},{"id":133,"name":"Maldives","mobile_code":"960","currency_name":"Maldivian rufiyaa","currency_code":"MVR","currency_symbol":"Rf","iso2":"MV"},{"id":134,"name":"Mali","mobile_code":"223","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"ML"},{"id":135,"name":"Malta","mobile_code":"356","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"MT"},{"id":136,"name":"Man (Isle of)","mobile_code":"+44-1624","currency_name":"British pound","currency_code":"GBP","currency_symbol":"\u00a3","iso2":"IM"},{"id":137,"name":"Marshall Islands","mobile_code":"692","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"MH"},{"id":138,"name":"Martinique","mobile_code":"596","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"MQ"},{"id":139,"name":"Mauritania","mobile_code":"222","currency_name":"Mauritanian ouguiya","currency_code":"MRO","currency_symbol":"MRU","iso2":"MR"},{"id":140,"name":"Mauritius","mobile_code":"230","currency_name":"Mauritian rupee","currency_code":"MUR","currency_symbol":"\u20a8","iso2":"MU"},{"id":141,"name":"Mayotte","mobile_code":"262","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"YT"},{"id":142,"name":"Mexico","mobile_code":"52","currency_name":"Mexican peso","currency_code":"MXN","currency_symbol":"$","iso2":"MX"},{"id":143,"name":"Micronesia","mobile_code":"691","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"FM"},{"id":144,"name":"Moldova","mobile_code":"373","currency_name":"Moldovan leu","currency_code":"MDL","currency_symbol":"L","iso2":"MD"},{"id":145,"name":"Monaco","mobile_code":"377","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"MC"},{"id":146,"name":"Mongolia","mobile_code":"976","currency_name":"Mongolian t\u00f6gr\u00f6g","currency_code":"MNT","currency_symbol":"\u20ae","iso2":"MN"},{"id":147,"name":"Montenegro","mobile_code":"382","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"ME"},{"id":148,"name":"Montserrat","mobile_code":"+1-664","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"MS"},{"id":149,"name":"Morocco","mobile_code":"212","currency_name":"Moroccan dirham","currency_code":"MAD","currency_symbol":"DH","iso2":"MA"},{"id":150,"name":"Mozambique","mobile_code":"258","currency_name":"Mozambican metical","currency_code":"MZN","currency_symbol":"MT","iso2":"MZ"},{"id":151,"name":"Myanmar","mobile_code":"95","currency_name":"Burmese kyat","currency_code":"MMK","currency_symbol":"K","iso2":"MM"},{"id":152,"name":"Namibia","mobile_code":"264","currency_name":"Namibian dollar","currency_code":"NAD","currency_symbol":"$","iso2":"NA"},{"id":153,"name":"Nauru","mobile_code":"674","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"NR"},{"id":154,"name":"Nepal","mobile_code":"977","currency_name":"Nepalese rupee","currency_code":"NPR","currency_symbol":"\u20a8","iso2":"NP"},{"id":156,"name":"Netherlands","mobile_code":"31","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"NL"},{"id":157,"name":"New Caledonia","mobile_code":"687","currency_name":"CFP franc","currency_code":"XPF","currency_symbol":"\u20a3","iso2":"NC"},{"id":158,"name":"New Zealand","mobile_code":"64","currency_name":"New Zealand dollar","currency_code":"NZD","currency_symbol":"$","iso2":"NZ"},{"id":159,"name":"Nicaragua","mobile_code":"505","currency_name":"Nicaraguan c\u00f3rdoba","currency_code":"NIO","currency_symbol":"C$","iso2":"NI"},{"id":160,"name":"Niger","mobile_code":"227","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"NE"},{"id":161,"name":"Nigeria","mobile_code":"234","currency_name":"Nigerian naira","currency_code":"NGN","currency_symbol":"\u20a6","iso2":"NG"},{"id":162,"name":"Niue","mobile_code":"683","currency_name":"New Zealand dollar","currency_code":"NZD","currency_symbol":"$","iso2":"NU"},{"id":163,"name":"Norfolk Island","mobile_code":"672","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"NF"},{"id":115,"name":"North Korea","mobile_code":"850","currency_name":"North Korean Won","currency_code":"KPW","currency_symbol":"\u20a9","iso2":"KP"},{"id":164,"name":"Northern Mariana Islands","mobile_code":"+1-670","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"MP"},{"id":165,"name":"Norway","mobile_code":"47","currency_name":"Norwegian krone","currency_code":"NOK","currency_symbol":"kr","iso2":"NO"},{"id":166,"name":"Oman","mobile_code":"968","currency_name":"Omani rial","currency_code":"OMR","currency_symbol":".\u0639.\u0631","iso2":"OM"},{"id":167,"name":"Pakistan","mobile_code":"92","currency_name":"Pakistani rupee","currency_code":"PKR","currency_symbol":"\u20a8","iso2":"PK"},{"id":168,"name":"Palau","mobile_code":"680","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"PW"},{"id":169,"name":"Palestinian Territory Occupied","mobile_code":"970","currency_name":"Israeli new shekel","currency_code":"ILS","currency_symbol":"\u20aa","iso2":"PS"},{"id":170,"name":"Panama","mobile_code":"507","currency_name":"Panamanian balboa","currency_code":"PAB","currency_symbol":"B\/.","iso2":"PA"},{"id":171,"name":"Papua new Guinea","mobile_code":"675","currency_name":"Papua New Guinean kina","currency_code":"PGK","currency_symbol":"K","iso2":"PG"},{"id":172,"name":"Paraguay","mobile_code":"595","currency_name":"Paraguayan guarani","currency_code":"PYG","currency_symbol":"\u20b2","iso2":"PY"},{"id":173,"name":"Peru","mobile_code":"51","currency_name":"Peruvian sol","currency_code":"PEN","currency_symbol":"S\/.","iso2":"PE"},{"id":174,"name":"Philippines","mobile_code":"63","currency_name":"Philippine peso","currency_code":"PHP","currency_symbol":"\u20b1","iso2":"PH"},{"id":175,"name":"Pitcairn Island","mobile_code":"870","currency_name":"New Zealand dollar","currency_code":"NZD","currency_symbol":"$","iso2":"PN"},{"id":176,"name":"Poland","mobile_code":"48","currency_name":"Polish z\u0142oty","currency_code":"PLN","currency_symbol":"z\u0142","iso2":"PL"},{"id":177,"name":"Portugal","mobile_code":"351","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"PT"},{"id":178,"name":"Puerto Rico","mobile_code":"+1-787 and 1-939","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"PR"},{"id":179,"name":"Qatar","mobile_code":"974","currency_name":"Qatari riyal","currency_code":"QAR","currency_symbol":"\u0642.\u0631","iso2":"QA"},{"id":180,"name":"Reunion","mobile_code":"262","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"RE"},{"id":181,"name":"Romania","mobile_code":"40","currency_name":"Romanian leu","currency_code":"RON","currency_symbol":"lei","iso2":"RO"},{"id":182,"name":"Russia","mobile_code":"7","currency_name":"Russian ruble","currency_code":"RUB","currency_symbol":"\u20bd","iso2":"RU"},{"id":183,"name":"Rwanda","mobile_code":"250","currency_name":"Rwandan franc","currency_code":"RWF","currency_symbol":"FRw","iso2":"RW"},{"id":184,"name":"Saint Helena","mobile_code":"290","currency_name":"Saint Helena pound","currency_code":"SHP","currency_symbol":"\u00a3","iso2":"SH"},{"id":185,"name":"Saint Kitts And Nevis","mobile_code":"+1-869","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"KN"},{"id":186,"name":"Saint Lucia","mobile_code":"+1-758","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"LC"},{"id":187,"name":"Saint Pierre and Miquelon","mobile_code":"508","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"PM"},{"id":188,"name":"Saint Vincent And The Grenadines","mobile_code":"+1-784","currency_name":"Eastern Caribbean dollar","currency_code":"XCD","currency_symbol":"$","iso2":"VC"},{"id":189,"name":"Saint-Barthelemy","mobile_code":"590","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"BL"},{"id":190,"name":"Saint-Martin (French part)","mobile_code":"590","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"MF"},{"id":191,"name":"Samoa","mobile_code":"685","currency_name":"Samoan t\u0101l\u0101","currency_code":"WST","currency_symbol":"SAT","iso2":"WS"},{"id":192,"name":"San Marino","mobile_code":"378","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"SM"},{"id":193,"name":"Sao Tome and Principe","mobile_code":"239","currency_name":"Dobra","currency_code":"STD","currency_symbol":"Db","iso2":"ST"},{"id":194,"name":"Saudi Arabia","mobile_code":"966","currency_name":"Saudi riyal","currency_code":"SAR","currency_symbol":"\ufdfc","iso2":"SA"},{"id":195,"name":"Senegal","mobile_code":"221","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"SN"},{"id":196,"name":"Serbia","mobile_code":"381","currency_name":"Serbian dinar","currency_code":"RSD","currency_symbol":"din","iso2":"RS"},{"id":197,"name":"Seychelles","mobile_code":"248","currency_name":"Seychellois rupee","currency_code":"SCR","currency_symbol":"SRe","iso2":"SC"},{"id":198,"name":"Sierra Leone","mobile_code":"232","currency_name":"Sierra Leonean leone","currency_code":"SLL","currency_symbol":"Le","iso2":"SL"},{"id":199,"name":"Singapore","mobile_code":"65","currency_name":"Singapore dollar","currency_code":"SGD","currency_symbol":"$","iso2":"SG"},{"id":250,"name":"Sint Maarten (Dutch part)","mobile_code":"1721","currency_name":"Netherlands Antillean guilder","currency_code":"ANG","currency_symbol":"\u0192","iso2":"SX"},{"id":200,"name":"Slovakia","mobile_code":"421","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"SK"},{"id":201,"name":"Slovenia","mobile_code":"386","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"SI"},{"id":202,"name":"Solomon Islands","mobile_code":"677","currency_name":"Solomon Islands dollar","currency_code":"SBD","currency_symbol":"Si$","iso2":"SB"},{"id":203,"name":"Somalia","mobile_code":"252","currency_name":"Somali shilling","currency_code":"SOS","currency_symbol":"Sh.so.","iso2":"SO"},{"id":204,"name":"South Africa","mobile_code":"27","currency_name":"South African rand","currency_code":"ZAR","currency_symbol":"R","iso2":"ZA"},{"id":205,"name":"South Georgia","mobile_code":"500","currency_name":"British pound","currency_code":"GBP","currency_symbol":"\u00a3","iso2":"GS"},{"id":116,"name":"South Korea","mobile_code":"82","currency_name":"Won","currency_code":"KRW","currency_symbol":"\u20a9","iso2":"KR"},{"id":206,"name":"South Sudan","mobile_code":"211","currency_name":"South Sudanese pound","currency_code":"SSP","currency_symbol":"\u00a3","iso2":"SS"},{"id":207,"name":"Spain","mobile_code":"34","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"ES"},{"id":208,"name":"Sri Lanka","mobile_code":"94","currency_name":"Sri Lankan rupee","currency_code":"LKR","currency_symbol":"Rs","iso2":"LK"},{"id":209,"name":"Sudan","mobile_code":"249","currency_name":"Sudanese pound","currency_code":"SDG","currency_symbol":".\u0633.\u062c","iso2":"SD"},{"id":210,"name":"Suriname","mobile_code":"597","currency_name":"Surinamese dollar","currency_code":"SRD","currency_symbol":"$","iso2":"SR"},{"id":211,"name":"Svalbard And Jan Mayen Islands","mobile_code":"47","currency_name":"Norwegian Krone","currency_code":"NOK","currency_symbol":"kr","iso2":"SJ"},{"id":212,"name":"Swaziland","mobile_code":"268","currency_name":"Lilangeni","currency_code":"SZL","currency_symbol":"E","iso2":"SZ"},{"id":213,"name":"Sweden","mobile_code":"46","currency_name":"Swedish krona","currency_code":"SEK","currency_symbol":"kr","iso2":"SE"},{"id":214,"name":"Switzerland","mobile_code":"41","currency_name":"Swiss franc","currency_code":"CHF","currency_symbol":"CHf","iso2":"CH"},{"id":215,"name":"Syria","mobile_code":"963","currency_name":"Syrian pound","currency_code":"SYP","currency_symbol":"LS","iso2":"SY"},{"id":216,"name":"Taiwan","mobile_code":"886","currency_name":"New Taiwan dollar","currency_code":"TWD","currency_symbol":"$","iso2":"TW"},{"id":217,"name":"Tajikistan","mobile_code":"992","currency_name":"Tajikistani somoni","currency_code":"TJS","currency_symbol":"SM","iso2":"TJ"},{"id":218,"name":"Tanzania","mobile_code":"255","currency_name":"Tanzanian shilling","currency_code":"TZS","currency_symbol":"TSh","iso2":"TZ"},{"id":219,"name":"Thailand","mobile_code":"66","currency_name":"Thai baht","currency_code":"THB","currency_symbol":"\u0e3f","iso2":"TH"},{"id":17,"name":"The Bahamas","mobile_code":"+1-242","currency_name":"Bahamian dollar","currency_code":"BSD","currency_symbol":"B$","iso2":"BS"},{"id":220,"name":"Togo","mobile_code":"228","currency_name":"West African CFA franc","currency_code":"XOF","currency_symbol":"CFA","iso2":"TG"},{"id":221,"name":"Tokelau","mobile_code":"690","currency_name":"New Zealand dollar","currency_code":"NZD","currency_symbol":"$","iso2":"TK"},{"id":222,"name":"Tonga","mobile_code":"676","currency_name":"Tongan pa\u02bbanga","currency_code":"TOP","currency_symbol":"$","iso2":"TO"},{"id":223,"name":"Trinidad And Tobago","mobile_code":"+1-868","currency_name":"Trinidad and Tobago dollar","currency_code":"TTD","currency_symbol":"$","iso2":"TT"},{"id":224,"name":"Tunisia","mobile_code":"216","currency_name":"Tunisian dinar","currency_code":"TND","currency_symbol":"\u062a.\u062f","iso2":"TN"},{"id":225,"name":"Turkey","mobile_code":"90","currency_name":"Turkish lira","currency_code":"TRY","currency_symbol":"\u20ba","iso2":"TR"},{"id":226,"name":"Turkmenistan","mobile_code":"993","currency_name":"Turkmenistan manat","currency_code":"TMT","currency_symbol":"T","iso2":"TM"},{"id":227,"name":"Turks And Caicos Islands","mobile_code":"+1-649","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"TC"},{"id":228,"name":"Tuvalu","mobile_code":"688","currency_name":"Australian dollar","currency_code":"AUD","currency_symbol":"$","iso2":"TV"},{"id":229,"name":"Uganda","mobile_code":"256","currency_name":"Ugandan shilling","currency_code":"UGX","currency_symbol":"USh","iso2":"UG"},{"id":230,"name":"Ukraine","mobile_code":"380","currency_name":"Ukrainian hryvnia","currency_code":"UAH","currency_symbol":"\u20b4","iso2":"UA"},{"id":231,"name":"United Arab Emirates","mobile_code":"971","currency_name":"United Arab Emirates dirham","currency_code":"AED","currency_symbol":"\u0625.\u062f","iso2":"AE"},{"id":232,"name":"United Kingdom","mobile_code":"44","currency_name":"British pound","currency_code":"GBP","currency_symbol":"\u00a3","iso2":"GB"},{"id":234,"name":"United States Minor Outlying Islands","mobile_code":"1","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"UM"},{"id":235,"name":"Uruguay","mobile_code":"598","currency_name":"Uruguayan peso","currency_code":"UYU","currency_symbol":"$","iso2":"UY"},{"id":236,"name":"Uzbekistan","mobile_code":"998","currency_name":"Uzbekistani so\u02bbm","currency_code":"UZS","currency_symbol":"\u043b\u0432","iso2":"UZ"},{"id":237,"name":"Vanuatu","mobile_code":"678","currency_name":"Vanuatu vatu","currency_code":"VUV","currency_symbol":"VT","iso2":"VU"},{"id":238,"name":"Vatican City State (Holy See)","mobile_code":"379","currency_name":"Euro","currency_code":"EUR","currency_symbol":"\u20ac","iso2":"VA"},{"id":239,"name":"Venezuela","mobile_code":"58","currency_name":"Bol\u00edvar","currency_code":"VEF","currency_symbol":"Bs","iso2":"VE"},{"id":240,"name":"Vietnam","mobile_code":"84","currency_name":"Vietnamese \u0111\u1ed3ng","currency_code":"VND","currency_symbol":"\u20ab","iso2":"VN"},{"id":241,"name":"Virgin Islands (British)","mobile_code":"+1-284","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"VG"},{"id":242,"name":"Virgin Islands (US)","mobile_code":"+1-340","currency_name":"United States dollar","currency_code":"USD","currency_symbol":"$","iso2":"VI"},{"id":243,"name":"Wallis And Futuna Islands","mobile_code":"681","currency_name":"CFP franc","currency_code":"XPF","currency_symbol":"\u20a3","iso2":"WF"},{"id":244,"name":"Western Sahara","mobile_code":"212","currency_name":"Moroccan Dirham","currency_code":"MAD","currency_symbol":"MAD","iso2":"EH"},{"id":245,"name":"Yemen","mobile_code":"967","currency_name":"Yemeni rial","currency_code":"YER","currency_symbol":"\ufdfc","iso2":"YE"},{"id":246,"name":"Zambia","mobile_code":"260","currency_name":"Zambian kwacha","currency_code":"ZMW","currency_symbol":"ZK","iso2":"ZM"},{"id":247,"name":"Zimbabwe","mobile_code":"263","currency_name":"Zimbabwe Dollar","currency_code":"ZWL","currency_symbol":"$","iso2":"ZW"}];
+            var localInfo = {"dial_code":"254","info":{"country":"Kenya"}};
+            var options = '';
+            countries.forEach(function(country) {
+                if(country.mobile_code == localInfo.dial_code && country.name == localInfo.info.country){
+                    var selected = 'selected';
+                }else{
+                    var selected = '';
+                }
+                options += `<option value="${country.mobile_code}" ${selected}>${country.name}(${country.mobile_code})</option>`;
+            });
+
+            $('.credentials').html(`
+                <div class="col-xl-12 col-lg-12 form-group">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <select class="input-group-text copytext nice-select" name="mobile_code" id="">
+                            ${options}
+                        </select>
+                    </div>
+                    <input type="number" name="credentials" class="form--control" placeholder="Enter Phone Number" value="">
+
+                </div>
+                <small class="text-danger exits"></small>
+            </div>
+            `);
+            $("select[name=mobile_code]").niceSelect();
+            $('.password-field').html(`
+                <div class="col-lg-12 form-group" id="show_hide_password">
+                    <input type="password" required class="form-control form--control" name="password" placeholder="Enter Password">
+                    <a href="javascript:void(0)" class="show-pass"><i class="fa fa-eye-slash" aria-hidden="true"></i></a>
+                </div>
+            `);
+        }else{
+            $('.credentials').html('');
+            $('.password-field').html('');
+            return false;
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+<div class="trx-input" style="display: none;">
+    <div class="row">
+        <div class="col-xl-4 col-lg-4 col-md-6 form-group">
+            <label for="firstname">First Name</label>
+
+            <input type="text" placeholder="First Name" name="firstname" class="form--control  " value="">
+
+        </div>
+
+        <div class="col-xl-4 col-lg-4 col-md-6 form-group">
+            <label for="lastname">Last Name</label>
+
+            <input type="text" placeholder="Last Name" name="lastname" class="form--control  " value="">
+
+        </div>
+
+        <div class="col-xl-4 col-lg-4 col-md-6 form-group">
+            <label>Country<span>*</span></label>
+            <select name="country" class="form--control country-select select-basic">
+                <option selected disabled>Select Country</option>
+                                    <option value="1"  data-country-code="AUD" data-mobile-code="61"  data-id="1">Australia (AUD)</option>
+                                    <option value="2"  data-country-code="GBP" data-mobile-code="44"  data-id="2">United Kingdom (GBP)</option>
+                                    <option value="4"  data-country-code="CAD" data-mobile-code="1"  data-id="4">Canada (CAD)</option>
+                                    <option value="5"  data-country-code="USD" data-mobile-code="1"  data-id="5">United States (USD)</option>
+                                    <option value="6"  data-country-code="BDT" data-mobile-code="880"  data-id="6">Bangladesh (BDT)</option>
+                            </select>
+        </div>
+
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label for="address">Address</label>
+
+            <input type="text" placeholder="Enter Address" name="address" class="form--control  " id=place-input autocomplete=none value="" required>
+
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label for="state">State</label>
+
+            <input type="text" placeholder="Enter State" name="state" class="form--control  " value="">
+
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label for="city">City</label>
+
+            <input type="text" placeholder="Enter City" name="city" class="form--control  " value="">
+
+        </div>
+
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label for="zipcode">Zip Code</label>
+
+            <input type="text" placeholder="Zip Code" name="zip" class="form--control  " value="">
+
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label>Phone Number<span>*</span></label>
+            <div class="input-group">
+                <div class="input-group-text phone-code">+</div>
+                <input class="phone-code" type="hidden" name="mobile_code" value="" />
+                <input type="text" class="form--control" placeholder="Enter Mobile Number" name="mobile">
+            </div>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label>Email Address<span>*</span></label>
+            <div class="input-group">
+                <input type="email" class="form--control" placeholder="Enter Email Address" name="email">
+            </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-3 col-md-4 form-group">
+            <label>Select Bank <span>*</span></label>
+            <select name="bank" class="form--control select2-basic" data-placeholder="Select Bank Name">
+                <option selected disabled>Select Bank Name</option>
+                                    <option value="uba-bank">UBA Bank</option>
+                                    <option value="accountant">Accountant</option>
+                                    <option value="mcb-bank-limited">MCB Bank Limited</option>
+                                    <option value="nib-bank-limited">NIB Bank Limited</option>
+                                    <option value="ubl-bank-limited">UBL Bank Limited</option>
+                                    <option value="united-bank-limited">United Bank Limited</option>
+                            </select>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-6 form-group">
+            <label>Account Number<span>*</span></label>
+            <div class="input-group">
+                <input type="text" class="form--control" placeholder="Enter Account Number" name="account_number">
+            </div>
+        </div>
+
+    </div>
+</div>
